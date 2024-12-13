@@ -1,0 +1,23 @@
+void main() {
+  bool isSunny = false;
+
+  bool hasUmbrella = true;
+  
+  String day = "sunday";
+  
+  if((isSunny == true && hasUmbrella == false) || (day == "saturday" ) )
+    
+    
+  {
+    print("Enjoy the day outdoors... !! "); 
+    
+  }
+   
+  else 
+    
+  {
+    
+    print("Be prepared for the weather...!! ") ;
+  }
+  
+}
